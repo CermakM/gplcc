@@ -1,4 +1,9 @@
+---
+layout: default
+---
 # GPL Cooperation Commitment - Company
+
+<b><a href="https://github.com/gplcc/gplcc/blob/master/Company/Company-List.md">See a list of companies that have adopted the GPL Cooperation Commitment</a></b>
 
 ## Company adoption of the GPL Cooperation Commitment
 
@@ -18,6 +23,7 @@
 - Use social media, press releases, or other methods to tell your customers and the broader open source community of the positive steps you made to make open source even safer. Here are some examples:<br>
     * [Red Hat’s blog](https://www.redhat.com/en/blog/fostering-greater-open-source-development)<br>
     * [HPE’s blog](https://news.hpe.com/hpe-joins-other-community-leaders-in-protecting-developers-and-enabling-innovation/)<br>
+
 - Add your company name to the Company-List.md file in this repository and add a link to your GPL Cooperation Commitment text. You do this by initiating a pull request to the Company-List.md file in this repository.
 
      <a href="mailto:gplcc@redhat.com?subject=Please add my company to the GPL Cooperation Commitment&body=Hi, I would like to have my company added to the GPL Cooperation Commitment.%0D%0A%0D%0AI represent that I have the authority to make this request.%0D%0A%0D%0AThe company name is: <INSERT COMPANY NAME>%0D%0A%0D%0AThe URL to the company's GPL Cooperation Commitment is: <INSERT LINK> %0D%0A%0D%0AMy name is:  <INSERT YOUR NAME> %0D%0A">Alternatively, you may click here which will automatically generate an email requesting the administrator to add your company to commitment.</a>
@@ -26,4 +32,11 @@
     * Red Hat will provide you with a draft of the press release for your internal review.<br>
     * The press release would include your Company’s name.<br>
     * We would encourage you to provide a quote for inclusion in the press release.<br>
-    * For example, here are links to the [March 2018](https://www.redhat.com/en/about/press-releases/momentum-builds-new-wave-technology-industry-leaders-join-efforts-increase-predictability-open-source-licensing) and [July 2018](https://www.redhat.com/en/about/press-releases/movement-builds-diverse-group-14-additional-leaders-seek-greater-predictability-open-source-licensing) press releases.
+    * For example, here are links to the [March 2018](https://www.redhat.com/en/about/press-releases/momentum-builds-new-wave-technology-industry-leaders-join-efforts-increase-predictability-open-source-licensing), [July 2018](https://www.redhat.com/en/about/press-releases/movement-builds-diverse-group-14-additional-leaders-seek-greater-predictability-open-source-licensing), and [November 2018](https://www.redhat.com/en/about/press-releases/gpl-initiative-expands-16-additional-companies-joining-campaign-greater-predictability-open-source-licensing) press releases.
+   
+-------------------------   
+    
+<a href="https://gplcc.github.io/gplcc/">Return to the GPL Cooperation Commitment main page.</a>
+ 
+    
+    

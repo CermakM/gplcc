@@ -1,20 +1,34 @@
-﻿# GPL Cooperation Commitment - Individual
+---
+layout: layout_individual
+---
+<strong>
+<a href="https://github.com/gplcc/gplcc/tree/master/Individual">GitHub guru? Generate a pull request to add your name to the bottom of this file.</a></strong><br>
 
-If you are an individual interested in supporting this initiative in your individual capacity, you may do so by providing your name to be publicly listed as supporting this initiative and personally adopting the GPLv3 cure provisions as to your copyright in code licensed under  GPLv2, LGPLv2.1 and LGPLv2.  
+<strong>
+<a href="mailto:gplcc@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment.">New to GitHub? We can add your name.</a></strong><br>
 
-To add your name, create a pull request to this file and insert your name at the bottom of this file thereby acknowledging your agreement to the "GPL v2 Cooperation Commitment - For Individuals"  From there, the administrator of this repository will approve and merge the pull requests on a periodic basis*.
+Our goal is to reduce opportunities for abusive enforcement tactics and, more broadly, to promote greater predictability in the enforcement of GPLv2 and LGPLv2.x licenses. Through this initiative, we hope to increase participation in the use and development of open source software by helping to ensure that enforcement, when it takes place, is fair and predictable.
 
-<a href="mailto:gplcc@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment.">Alternatively, you may click here which will automatically generate an email requesting the administrator to add your name to commitment. </a>
+[Tell the world that you added your name to the GPL Cooperation Commitment via Twitter.](http://twitter.com/home?status=I%20signed%20the%20GPL%20Cooperation%20Comitment%20to%20support%20GPL%20enforcement%20consistent%20with%20collaborative%20innovation%20that%20occurs%20in%20open%20source%20communities.%20Please%20join%20https%3A%2Fgplcc.github.io%2Fgplcc%20%23GPLCC%20%23GPL%20%23opensource)
 
+## When you add your name to the GPL Cooperation Commitment for individuals, you’re telling the world that:
+* You support open source community members whose intent is to foster collaboration and participation.
+* You expect licensees to comply with the GPL and LGPL when redistributing code.
+* You assume positive intent and understand that well-meaning people sometimes make mistakes.
+* You have committed to giving licensees a fair chance to correct license violations.
 
-[Tell the world that you signed the GPL Cooperation Commitment via Twitter!](http://twitter.com/home?status=I%20signed%20the%20GPL%20Cooperation%20Comitment%20to%20support%20GPL%20enforcement%20consistent%20with%20collaborative%20innovation%20that%20occurs%20in%20open%20source%20communities.%20Please%20join%20https%3A%2Fgplcc.github.io%2Fgplcc%20%23GPLCC%20%23GPL%20%23opensource)
+---
 
-### GPL Cooperation Commitment - For Individuals
+> _“As President of the Open Source Initiative (OSI), I’m pleased to sign my name to the GPL Cooperation Commitment. This recent initiative by Red Hat helps to set a precedent for cooperation in GPL license enforcement―it’s a way to tell the open source community that good intentions matter. I encourage other members of the community to support this initiative by adding your name. Let’s celebrate the 20th anniversary of Open Source by spreading this everywhere!”_ -Simon Phipps
+
+---
+
+### Legally, you are agreeing to this commitment:
 
 Solely for any software for which I personally own copyright that is licensed under a Covered License, before filing or continuing to prosecute any legal proceeding or claim (other than a Defensive Action) arising from termination of a Covered License, I commit to extend to the person or entity (“you”) accused of violating the Covered License the following provisions regarding cure and reinstatement, taken from GPL version 3. As used here, the term ‘this License’ refers to the specific Covered License being enforced.
 
 “However, if you cease all violation of this License, then your license from a particular copyright holder is reinstated (a) provisionally, unless and until the copyright holder explicitly and finally terminates your license, and (b) permanently, if the copyright holder fails to notify you of the violation by some reasonable means prior to 60 days after the cessation.
-	 	
+
 Moreover, your license from a particular copyright holder is reinstated permanently if the copyright holder notifies you of the violation by some reasonable means, this is the first time you have received notice of violation of this License (for any work) from that copyright holder, and you cure the violation prior to 30 days after your receipt of the notice.”
 
 I intend   this Commitment to be irrevocable, and binding and enforceable against me and assignees of or successors to my copyrights.
@@ -26,7 +40,11 @@ Definitions:
 
 ‘Defensive Action’ means a legal proceeding or claim that I bring against you in response to a prior proceeding or claim initiated by you or your affiliate.
 
+<i><a href="https://gplcc.github.io/gplcc/">Questions about the GPL Cooperation Commitment?</a></i><br>
+
 #### THE ABOVE COMMITMENT IS AGREED TO BY THE FOLLOWING INDIVIDUALS
+
+[Magnus Glantz](http://github.com/mglantz)
 
 Michael K. Dolan Jr. (https://github.com/mkdolan)
 
@@ -172,7 +190,7 @@ Dave Stanley
 
 Stefan van Oirschot
 
-[Rebecca Fernandez](https://github.com/ruhbehka) 
+[Rebecca Fernandez](https://github.com/ruhbehka)
 
 [Michel Peterson](https://github.com/mpeterson)
 
@@ -270,7 +288,7 @@ Dan Callaghan
 
 [Robert Scheck](https://github.com/robert-scheck)
 
-[Charles Marshall](https://github.com/otakuidoru) 
+[Charles Marshall](https://github.com/otakuidoru)
 
 [Thiago Rafael Becker](https://github.com/trbecker)
 
@@ -324,8 +342,6 @@ Rene LeBlanc
 
 Sandra Falzarano
 
-Karen Noel
-
 Ian Checkley
 
 [Sergio Lopez](https://github.com/slp)
@@ -371,3 +387,289 @@ Paul Sutton
 Abu Sakib
 
 Akshay R. Kapadia
+
+[Giuseppe Scrivano](https://github.com/giuseppe)
+
+[Marek Čermák](https://github.com/CermakM)
+
+Thomas Claesson
+
+[Gregory Zuckerman](https://github.com/gzuckerman)
+
+Ozgur Kara
+
+Richard King
+
+Ricardo Grant
+
+[Jakub Dubec](https://github.com/Sibyx)
+
+[Francesco Pantano](https://github.com/fmount)
+
+Daniel Dominguez
+
+Amjad Yaseen
+
+Khaled Algharieb
+
+[Lee Hayward](https://thecloud.org.uk)
+
+[Betsy Gamrat](https://github.com/bgamrat)
+
+[Bernhard "Bero" Rosenkr&auml;nzer](https://github.com/berolinux)
+
+Elizabeth Rowland
+
+Lucas Dagostino
+
+[Zdenek Veleba](https://zveleba.cz/)
+
+Hubert Dabrowski
+
+Wolfgang Denk
+
+Rachel Portnoy
+
+Matt Kinney
+
+[Dan Yeaw](https://github.com/danyeaw)
+
+Ed Hussey
+
+Amy Ross
+
+Chris Negus
+
+Madison Brewer
+
+Jonathan Castro
+
+Андрей Трушников
+
+ปิยะ ผู้นวลงาม
+
+Dave Woolfenden
+
+Daniel Seaton
+
+Sameer Desai
+
+Phil Cassaro
+
+Joe Brockmeier
+
+Eugene Cox
+
+Jen Ratliff
+
+Richard Monk
+
+Alison Perkins
+
+Payman Damghani
+
+Lee Graham
+
+Jenn Anderson
+
+Miles Horton
+
+Alex Wood
+
+Paxton Campbell
+
+Ashley Marshall
+
+Kristen Douglas
+
+Betsy Cook
+
+Siddharth Sharma
+
+Sarah Harvey
+
+Scott Stewart
+
+Mark Bowen
+
+Brian Chang
+
+Emily Verdu
+
+Anwar Belayachi
+
+Tabi Savage
+
+Navin Singh
+
+Ted Copeland
+
+Matt Mariani
+
+Vince Conzola
+
+Freshman
+
+Jason Thompson
+
+Jessica Gidney
+
+Teryl Mack
+
+Nathaniel McCallum
+
+Alejandro Sanchez
+
+Larisso Peluso - Fleming
+
+Chikita Isaac
+
+Patrick Cole
+
+Josh Smith
+
+Jess Davis
+
+Nair Hernandez
+
+Aletra Wilkerson
+
+Joshua Good
+
+Jamie Duncan
+
+Yasir Iman
+
+Chelsea Peedin
+
+[Patrick Young](https://github.com/kmahyyg)
+
+Syed Ahmed
+
+[Peter Lemenkov](https://github.com/lemenkov)
+
+Juan David Perez O.
+
+[Oliver Falk](https://github.com/ofalk)
+
+[David Proksch](https://github.com/davidproksch)
+
+Lalatendu Mohanty
+
+[David Kirwan](https://github.com/davidkirwan)
+
+Pilar Bravo
+
+Marco Donkers
+
+[Michael Hrivnak](https://github.com/mhrivnak)
+
+[Eliot Lash](https://github.com/fadookie)
+
+Pedro J. Amoedo Martinez
+
+[Markus Thömmes](https://github.com/markusthoemmes)
+
+[Kenneth Giusti](https://github.com/kgiusti)
+
+Christoph Brune
+
+Yossi Segev
+
+[Lenny Szubowicz](https://github.com/LennySzubowicz)
+
+Jose Santiago Silva Ramirez
+
+Issac Chute
+
+Dave Fitzpatrick
+
+Don Zickus
+
+Ryan Cole
+
+Ian Panzica
+
+Andrew Toth
+
+Dan Walsh
+
+Susan Denham
+
+Benjamin Bennett
+
+[Clint Priest](https://github.com/cpriest)
+
+Tesh Patel
+
+林韋宏
+
+Matthew Grossman
+
+Robert Lidberg
+
+Aaron Kaatz
+
+[Bryan Sutula](https://github.com/sutula)
+
+Honey Banny
+
+Phee Rujiphan
+
+Byken Hoang
+
+Matt Erbst
+
+Jean Sebastien Tougne
+
+[Michael Gliwinski](https://github.com/mig4)
+
+[Michael Leibfried](https://github.com/LeibfriedM)
+
+Matthias Pfützner
+
+Horst Thieme
+
+Martin Welk
+
+[Daniel Fröhlich](https://github.com/DanielFroehlich)
+
+Ingo Boernig
+
+[Jacob Borella](https://github.com/jacobborella)
+
+[Wolfram Richter](https://github.com/wrichter)
+
+[Karsten Gresch](https://github.com/karstengresch/)
+
+Thương Đặng 
+
+Freda McClendon 
+
+Sylwia Panek
+
+Karla Guevara
+
+[Thomas Jensen](https://github.com/tsjensen/)
+
+Thu Huynh
+
+RJK Murray 
+
+[Lucas Ramage](https://github.com/oxr463)
+
+Frantisek Kust 
+
+Christine Xiao
+
+[Théo Zimmermann](https://www.theozimmermann.net)
+
+Karla Guevara 
+
+Kader Hero
+
+Zen Yip
+
+ยัยหนู นารา
+
+Thiha Lwin 
